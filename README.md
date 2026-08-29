@@ -1,2 +1,3 @@
 # Activity-1
-First preliminary activity
+Presentation Design Principles
+The first activity of the elective in prelims
